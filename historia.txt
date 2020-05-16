@@ -4,6 +4,8 @@ Cristian Sacta tiene 31 años nacio en Ecuador
 
 Hoy hablaremos de su historia.
 
+Master 1
+
 Mañana nos enfocaremos en su vida laboral
 
 Esto es una prueba de lo que hace git por ti
